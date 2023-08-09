@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690601335117",
+    "firebase_url": "https://mad-lab-project-3008f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mad-lab-project-3008f",
+    "storage_bucket": "mad-lab-project-3008f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690601335117:android:c903506b9a84f299173f04",
+        "android_client_info": {
+          "package_name": "com.siddharth.login_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690601335117-vcstqqrjndcp5nfkt4buajhlbagq0hnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bEPWJOismgS1g7FXo4DZuHQOqb6AXBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690601335117-vcstqqrjndcp5nfkt4buajhlbagq0hnj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690601335117-tptv5saanq3mnod5uc49jifeiq5q59rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.siddharth.loginRegister"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

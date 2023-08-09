@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690601335117-tptv5saanq3mnod5uc49jifeiq5q59rk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690601335117-tptv5saanq3mnod5uc49jifeiq5q59rk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3JxBtyR-EFgaFrbRxr-gKJSDjqhJ8d8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690601335117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.siddharth.loginRegister</string>
+	<key>PROJECT_ID</key>
+	<string>mad-lab-project-3008f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mad-lab-project-3008f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690601335117:ios:bfc4fd444302e380173f04</string>
+	<key>DATABASE_URL</key>
+	<string>https://mad-lab-project-3008f-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
